@@ -1,0 +1,19 @@
+{
+  "name": "slack-doppelganger",
+  "version": "0.0.1",
+  "description": "Backup slack message to a static site.",
+  "main": "index.js",
+  "authors": {
+    "name": "Ofey Chan",
+    "email": "ofey206@gmail.com"
+  },
+  "repository": "https://github.com/ofey404/slack-doppelganger/slack-doppelganger",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
